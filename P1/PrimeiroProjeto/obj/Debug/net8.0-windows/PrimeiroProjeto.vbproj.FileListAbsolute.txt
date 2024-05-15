@@ -1,0 +1,16 @@
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\bin\Debug\net8.0-windows\PrimeiroProjeto.exe
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\bin\Debug\net8.0-windows\PrimeiroProjeto.deps.json
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\bin\Debug\net8.0-windows\PrimeiroProjeto.runtimeconfig.json
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\bin\Debug\net8.0-windows\PrimeiroProjeto.dll
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\bin\Debug\net8.0-windows\PrimeiroProjeto.pdb
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.Form1.resources
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.vbproj.GenerateResource.cache
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.AssemblyInfo.vb
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.vbproj.CoreCompileInputs.cache
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.dll
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\refint\PrimeiroProjeto.dll
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.pdb
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\mpwse\Desktop\VB\P1\PrimeiroProjeto\obj\Debug\net8.0-windows\ref\PrimeiroProjeto.dll
